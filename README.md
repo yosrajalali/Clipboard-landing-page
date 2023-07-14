@@ -10,7 +10,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-ANfdeeaarO](https://www.frontendmentor.io/solutions/clipboard-landing-page-ANfdeeaarO)
 - Live Site URL: [https://yosrajalali.github.io/Clipboard-landing-page/](https://yosrajalali.github.io/Clipboard-landing-page/)
 
 - [Overview](#overview)
